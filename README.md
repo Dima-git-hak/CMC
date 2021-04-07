@@ -22,7 +22,7 @@ SMS-спамер<br>
 • <code>apt update</code><br>
 • <code>apt upgrade</code><br>
 • <code>apt install git</code><br>
-• <code>git clone https://github.com/makhak122/CMC</code><br>
+• <code>git clone https://github.com/dima-git-hak/CMC</code><br>
 • <code>sh ~/CMC/install.sh</code><br>
 • <code>CMC</code><br>
 
@@ -30,7 +30,7 @@ SMS-спамер<br>
 • <code>apk update</code><br>
 • <code>apk upgrade</code><br>
 • <code>apk add git</code><br>
-• <code>git clone  https://github.com/makhak122/CMC</code><br>
+• <code>git clone  https://github.com/dima-git-hak/CMC</code><br>
 • <code>sh ~/CMC/install.sh</code><br>
 • <code>CMC</code><br>
 <br>
