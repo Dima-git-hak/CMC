@@ -3,19 +3,8 @@
 # Spymer
 SMS-спамер<br>
 Только для России!<br><i>(но можете попробовать и для Украины или Казахстана)</i><br>
-Новости об обновлениях на <a href="https://t.me/LegionXlink">канале в Telegram</a><br>
-# Обязательно подпишитесь на канал в телеграме, там может решаться дальнейшая судьба проекта или очень важная информация!!!
-<br><b>---> <a href="https://t.me/LegionXlink">Канал в Telegram</a> <---</b><br>
+Телеграм - @Programmerlinix
 
-# Приму в дар деньги на пиво! :))
-<i>в любой валюте))</i><br>
-<b>Донатерная!</b><br>
-<b>1. PAYPAL:</b> недоступно<br>
-<b>2. QIWI:</b> недоступно<br>
-<b>3. YANDEX MONEY:</b> недоступно<br>
-<br>
-<i>Free programmers also need to eat :)</i>
-<br>
 # Как установить?
 <b>Тупо следуйте инструкции...</b><br>
 <b>Если у вас Android/<b> - скачать <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Termux из Google Play</a>, открыть его и прописать команды ниже:<br>
